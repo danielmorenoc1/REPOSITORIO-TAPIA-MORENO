@@ -5,4 +5,4 @@ El proyecto estará centrado en 2 temas, turismo y seguridad. Ambos temas son de
 Se busca demostrar que a pesar de los riesgos que hay en torno a la delincuencia, nuestro país sigue acumulando visitantes y tiene un enorme potencial para ser explotado.
 
 ## ¿Que se ha contado?
-Sobre ambos temas juntos no se ha discutido lo suficiente en medios, solamente eventos puntuales como el apuñalamiento de un guía turistico en PLaza de Armas, pero no hemos encontrado medios o estudios que lo aborden en profundidad
+Sobre ambos temas juntos no se ha discutido lo suficiente en medios, solamente eventos puntuales como el apuñalamiento de un guía turistico en Plaza de Armas o las cifras positivas de fin de año, pero no hemos encontrado medios o estudios que lo aborden en profundidad
