@@ -56,7 +56,7 @@ La base incluye una variedad de datos, he aquí algunos ejemplos concretos:
   
 -Además, este boletín entrega información respecto a **variables económicas** características del turismo, como es el IMACEC, el empleo en las Actividades Características del Turismo (ACT), IPC de productos relacionados al turismo, etc.
 
-Pertinencia
+#### Pertinencia
 -Es una base muy completa que ilustra de manera clara las principales aristas de la industria del turismo como tendencia, lo cual es ideal para que nosotros podamos abordar la industria del turismo y verificar si su evolución tiene relación con el auge de la delincuencia en Chile.
 
 #### Metodología
