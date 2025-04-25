@@ -16,3 +16,11 @@ GPI 2023: https://www.visionofhumanity.org/wp-content/uploads/2023/06/GPI-2023-W
 
 GPI 2024: https://www.economicsandpeace.org/wp-content/uploads/2024/06/GPI-2024-web.pdf 
 
+
+## Travelling Advisories:
+
+Estados Unidos: https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chile-travel-advisory.html 
+
+Canadá: https://travel.gc.ca/destinations/chile#risk 
+
+(Para ambos casos se accedió a https://web.archive.org/, para así fin de acceder a versiones pasadas de ambos sitios, con el fin de recabar los niveles de alerta que estos países otorgaban a Chile como destino turístico).
